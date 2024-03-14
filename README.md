@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects. I'm 
 
 ## Tech Stack 
 
-Programming Languages: Python, SQL, HTML, CSS, PHP, JavaScript, C, C++<br>
+Programming Languages: Python, SQL, HTML, CSS, PHP, JavaScript, C, C++<br><br>
 Web Technologies: Bootstrap, MongoDB, Kubernetes, KubeEdge, Nodejs, AWS<br>
 Technologies: Machine Learning, Deep Learning, Natural Language Processing (NLP), Artificial Intelligence (AI), Hugging Face<br>
 Libraries: Scikit-learn, OpenCV, Pytorch, Keras, Tensorflow, Pandas, Seaborn, Matplotlib, Numpy<br>
