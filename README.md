@@ -19,11 +19,11 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects. I'm 
 
 ## Tech Stack 
 
-Programming Languages: Python, SQL, HTML, CSS, PHP, JavaScript, C, C++<br><br>
-Web Technologies: Bootstrap, MongoDB, Kubernetes, KubeEdge, Nodejs, AWS<br><br>
-Technologies: Machine Learning, Deep Learning, Natural Language Processing (NLP), Artificial Intelligence (AI), Hugging Face<br><br>
-Libraries: Scikit-learn, OpenCV, Pytorch, Keras, Tensorflow, Pandas, Seaborn, Matplotlib, Numpy<br><br>
-Softwares: Git, GitHub, Microsoft Power BI, Tableau, Docker, Wireshark, Apache Spark<br><br>
+Programming Languages : Python, SQL, HTML, CSS, PHP, JavaScript, C, C++<br><br>
+Web Technologies : Bootstrap, MongoDB, Kubernetes, KubeEdge, Nodejs, AWS<br><br>
+Technologies : Machine Learning, Deep Learning, Natural Language Processing (NLP), Artificial Intelligence (AI), Hugging Face<br><br>
+Libraries : Scikit-learn, OpenCV, Pytorch, Keras, Tensorflow, Pandas, Seaborn, Matplotlib, Numpy<br><br>
+<b>Softwares</b> : Git, GitHub, Microsoft Power BI, Tableau, Docker, Wireshark, Apache Spark<br><br>
 
 ![image](https://github.com/ParthGodse/ParthGodse/assets/98154485/89e24538-e64f-4108-8f53-21aaf19c27fd)
 
