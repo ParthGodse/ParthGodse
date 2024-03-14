@@ -25,7 +25,8 @@ Technologies: Machine Learning, Deep Learning, Natural Language Processing (NLP)
 Libraries: Scikit-learn, OpenCV, Pytorch, Keras, Tensorflow, Pandas, Seaborn, Matplotlib, Numpy<br>
 Softwares: Git, GitHub, Microsoft Power BI, Tableau, Docker, Wireshark, Apache Spark<br>
 
-![image](https://github.com/ParthGodse/ParthGodse/assets/98154485/d9ebe8da-e034-4c19-96b4-6f47c8430be7)  ![image](https://github.com/ParthGodse/ParthGodse/assets/98154485/35ccc32f-509a-4b83-90b6-96013c2816be) ![image](https://github.com/ParthGodse/ParthGodse/assets/98154485/714b5275-d379-4f3f-bebd-448d6c6b1969)
+![image](https://github.com/ParthGodse/ParthGodse/assets/98154485/89e24538-e64f-4108-8f53-21aaf19c27fd)
+
 
 
 
