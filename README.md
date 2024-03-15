@@ -25,9 +25,6 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects. I'm 
 <b>Libraries</b> : Scikit-learn, OpenCV, Pytorch, Keras, Tensorflow, Pandas, Seaborn, Matplotlib, Numpy<br><br>
 <b>Softwares</b> : Git, GitHub, Microsoft Power BI, Tableau, Docker, Wireshark, Apache Spark<br><br>
 
-![image](https://github.com/ParthGodse/ParthGodse/assets/98154485/89e24538-e64f-4108-8f53-21aaf19c27fd)
-
-
-
-
-
+<!--![image](https://github.com/ParthGodse/ParthGodse/assets/98154485/89e24538-e64f-4108-8f53-21aaf19c27fd)
+-->
+![image](https://github.com/ParthGodse/ParthGodse/assets/98154485/9722f48d-362c-4589-995b-aefdd2fe3708)
