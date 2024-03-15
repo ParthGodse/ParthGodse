@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my GitHub profile! Here you'll find a collection of my projects. I'm a passionate about Machine Learning with a keen interest in leveraging data to solve real-world problems and drive innovation. My journey revolves around building and deploying robust machine learning models, optimizing algorithms, and exploring new techniques in the field of Artificial Intelligence. Currently, I am enjoying learning about Computer Vision and its various real-world applications.
+Welcome to my GitHub profile! Here you'll find a collection of my projects. I'm passionate about Machine Learning with a keen interest in leveraging data to solve real-world problems and drive innovation. My journey revolves around building and deploying robust machine learning models, optimizing algorithms, and exploring new techniques in the field of Artificial Intelligence. Currently, I am enjoying learning about Computer Vision and its various applications.
 
 ## Tech Stack 
 
