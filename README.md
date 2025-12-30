@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 Welcome to my GitHub profile! Here you'll find a collection of my projects. I enjoy building full stack applications and also dabble into machine Learning once in a while with a interest in leveraging data to solve real-world problems and drive innovation. My journey revolves around building and delivering solutions and deploying robust models, optimizing algorithms, and exploring new techniques in the field of Artificial Intelligence. With some experience in Computer Vision I am currently learning about LLMs and its various applications, creating different agents, etc.
 
-Take a look at my Portfolio here - [https://www.pgodse.me/]([url](https://www.pgodse.me/))
+Take a look at my Portfolio here - []([url](https://www.pgodse.me/))
 
 ## Tech Stack 
 
